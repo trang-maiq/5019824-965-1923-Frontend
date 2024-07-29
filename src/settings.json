@@ -1,0 +1,72 @@
+{
+  "components": [
+    {
+      "id": "NavbarSimple",
+      "variables": {
+        "subtitle": "Explore relatable stories, vibrant discussions, and find your community. Let's turn your everyday moments into something amazing!",
+        "title": "Welcome to Yay! - Your Daily Dose of Positivity"
+      }
+    },
+    {
+      "id": "BannerWithButton",
+      "variables": {
+        "eventDescription": "Join us for GopherCon 2025 and stay ahead with the latest in the Go community!",
+        "eventName": "GopherCon 2025",
+        "linkText": "Register Now !!"
+      }
+    },
+    {
+      "id": "HeroWithOffsetImage",
+      "variables": {
+        "subtitle": "Explore relatable stories, vibrant discussions, and find your community. Let's turn your everyday moments into something amazing!",
+        "title": "Welcome to Yay! - Your Daily Dose of Positivity"
+      }
+    },
+    {
+      "id": "TestimonialsGrid",
+      "variables": {
+        "subtitle": "Explore relatable stories, vibrant discussions, and find your community. Let's turn your everyday moments into something amazing!",
+        "title": "Welcome to Yay! - Your Daily Dose of Positivity"
+      }
+    },
+    {
+      "id": "StatsSimpleGrid",
+      "variables": {
+        "subtitle": "Explore relatable stories, vibrant discussions, and find your community. Let's turn your everyday moments into something amazing!",
+        "title": "Welcome to Yay! - Your Daily Dose of Positivity"
+      }
+    },
+    {
+      "id": "CtaSimpleCentered",
+      "variables": {
+        "subtitle": "Explore relatable stories, vibrant discussions, and find your community. Let's turn your everyday moments into something amazing!",
+        "title": "Welcome to Yay! - Your Daily Dose of Positivity"
+      }
+    },
+    {
+      "id": "FaqsOffsetWithSupportingText",
+      "variables": {
+        "subtitle": "Explore relatable stories, vibrant discussions, and find your community. Let's turn your everyday moments into something amazing!",
+        "title": "Welcome to Yay! - Your Daily Dose of Positivity"
+      }
+    },
+    {
+      "id": "NewsletterCenteredCard",
+      "variables": {
+        "subtitle": "Explore relatable stories, vibrant discussions, and find your community. Let's turn your everyday moments into something amazing!",
+        "title": "Welcome to Yay! - Your Daily Dose of Positivity"
+      }
+    },
+    {
+      "id": "FooterSimpleCentered",
+      "variables": {
+        "subtitle": "Explore relatable stories, vibrant discussions, and find your community. Let's turn your everyday moments into something amazing!",
+        "title": "Welcome to Yay! - Your Daily Dose of Positivity"
+      }
+    }
+  ],
+  "theme": "neo-brutal",
+  "font": "",
+  "title": "Welcome to Yay! - Your Daily Dose of Positivity",
+  "subtitle": "Explore relatable stories, vibrant discussions, and find your community. Let's turn your everyday moments into something amazing!"
+}
